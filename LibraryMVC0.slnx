@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="LibraryDomain/LibraryDomain.csproj" />
+  <Project Path="LibraryInfrastructure/LibraryInfrastructure.csproj" />
+</Solution>
